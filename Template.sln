@@ -9,10 +9,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{D82B1F53-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{8A8F8EED-12E6-4BA1-8134-037ACD12388F}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{DBA2DD45-43D3-4E9E-92C2-AE4FCD693E83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "About", "About", "{3491B7B6-5654-44C4-806A-7CA332B82E26}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		RECOMMEND.md = RECOMMEND.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
